@@ -1,4 +1,4 @@
-include: "views/cats.view"
+include: "*/cats.view"
 include: "views/dogs.view.lkml"
 
 

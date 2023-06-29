@@ -1,4 +1,4 @@
-include: "views/kittens.view.lkml"
+include: "views/kittens.view"
 include: "views/dogs.view.lkml"
 
 explore: kittens {
